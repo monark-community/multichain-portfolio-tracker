@@ -16,7 +16,7 @@ const Index = () => {
       <div className="min-h-screen bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900 flex items-center justify-center">
         <div className="text-center max-w-2xl mx-auto px-6">
           <div className="mb-8">
-            <h1 className="text-6xl font-bold mb-4 gradient-crypto bg-clip-text text-transparent">
+            <h1 className="text-6xl font-bold mb-4 text-white">
               MultiTrack
             </h1>
             <p className="text-xl text-slate-300 mb-8">
