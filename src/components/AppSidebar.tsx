@@ -35,7 +35,7 @@ export function AppSidebar() {
   return (
     <Sidebar className="border-r border-slate-800">
       <SidebarHeader className="border-b border-slate-800 p-6">
-        <h2 className="text-xl font-bold gradient-crypto bg-clip-text text-transparent">
+        <h2 className="text-xl font-bold text-white">
           MultiTrack
         </h2>
       </SidebarHeader>
